@@ -40,3 +40,5 @@ luac.out
 *.hex
 
 output/
+
+.DS_STORE

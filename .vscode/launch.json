@@ -6,8 +6,8 @@
         "type": "playdate",
         "name": "Run app in Playdate simulator",
         "preLaunchTask": "Compile App",
-        "source": "${workspaceFolder}/src",
-        "output": "${workspaceFolder}/output/YourGameName.pdx",
+        "source": "/src",
+        "output": "/output/YourGameName.pdx",
       }
     ]
   }
