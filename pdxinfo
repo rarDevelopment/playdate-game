@@ -1,0 +1,6 @@
+name=Rar Game
+author= @rardk64
+description= sample game text.
+bundleID=com.rardk64.rargame
+version=0.1
+imagePath=src/images/background.png

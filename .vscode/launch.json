@@ -7,7 +7,7 @@
         "name": "Run app in Playdate simulator",
         "preLaunchTask": "Compile App",
         "source": "/src",
-        "output": "/output/YourGameName.pdx",
+        "output": "/output/RarGame.pdx",
       }
     ]
   }

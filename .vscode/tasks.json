@@ -3,7 +3,7 @@
     "tasks": [{
     "label": "Compile App",
     "command": "pdc",
-    "args": ["src", "output/YourGameName.pdx"],
+    "args": ["src", "output/RarGame.pdx"],
     "type": "shell"
     }]
   }
