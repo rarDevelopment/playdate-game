@@ -40,5 +40,7 @@ luac.out
 *.hex
 
 output/
-
 .DS_STORE
+.sentry-native
+builds/
+Games/
